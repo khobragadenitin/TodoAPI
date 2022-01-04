@@ -1,0 +1,1 @@
+web: build/install/TodoAPI/bin/TodoAPI
